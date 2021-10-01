@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shirley-z
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in building web applications using react.js and node.js
+- 🌱 I’m currently learning algorithms
 - 💞️ I’m looking to collaborate on any fun projects
 - 📫 Find me on linkedin/in/shirleyazhang
 
